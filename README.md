@@ -1,3 +1,3 @@
-# Quasar App
+# Star Wars Reference
 
-> WIP
+A Quasar app using the free API at swapi.co
