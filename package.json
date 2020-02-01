@@ -13,7 +13,7 @@
   "dependencies": {
     "@quasar/extras": "^1.5.0",
     "axios": "^0.18.1",
-    "quasar": "^1.8.3",
+    "quasar": "^1.8.5",
     "vue-i18n": "^8.0.0"
   },
   "devDependencies": {
